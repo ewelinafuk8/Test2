@@ -1,1 +1,2 @@
 plik do kodu
+my second line of the text
